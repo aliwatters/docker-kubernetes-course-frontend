@@ -1,3 +1,11 @@
+[![Build Status](https://travis-ci.com/aliwatters/docker-kubernetes-course-frontend.svg?branch=main)](https://travis-ci.com/aliwatters/docker-kubernetes-course-frontend)
+
+# Frontend app for docker & kubernetes course.
+
+Demo app -- nothing special to see here.
+
+See: https://github.com/aliwatters/sandbox/tree/main/2020/docker-kubernetes-course
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
