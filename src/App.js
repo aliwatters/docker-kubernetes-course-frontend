@@ -18,7 +18,7 @@ function App() {
           Learn React
         </a>
         <br />
-        My basic change
+        My new feature 1
       </header>
     </div>
   );
